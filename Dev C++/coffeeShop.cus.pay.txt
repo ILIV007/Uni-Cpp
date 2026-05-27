@@ -1,0 +1,9 @@
+water
+iceTea
+
+your ice pay is : 	90
+French_fries
+Sausage
+
+your foodd pay is : 	130
+your foodd pay is : 	0
