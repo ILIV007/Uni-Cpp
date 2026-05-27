@@ -1,0 +1,6 @@
+limonad
+coffee
+pizza
+
+
+pay: 2000
