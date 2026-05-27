@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string.h>
+using namespace std; 
+int main()
+{
+char n[1000];
+char n1[1000];
+getline.(n.1000);
+getline.(n1.1000);
+strcmp(n,n1);
+cout<<n<<n1;
+    return 0;
+}

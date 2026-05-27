@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string.h>
+using namespace std; 
+int main()
+{
+int s=0;
+char n[1000];
+char n1[1000];
+cin.getline(n,1000);
+for(int i=0 ; i< strlen(a) ; i++)
+{
+    if(n[i] == n1[i])
+    s=i;
+        break;
+}
+for(int i=s ; i< strlen(n) ; i++)
+   cout<<n;
+    return 0;
+}
