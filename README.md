@@ -173,8 +173,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 > 💡 **Pro Tip**: For best experience, run these projects in a terminal with UTF-8 support.  
 > 🌟 *If you found these projects helpful, consider starring the repo!* ⭐
-
-```
-
-✅ این README رو کپی کن، توی گیت‌هاب پیست کن و تمام!  
-اگر پروژه‌های بعدی رو هم فرستادی، همین‌طور براشون ریدمی حرفه‌ای می‌نویسم. 🚀
